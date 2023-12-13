@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+    <servlet>
+        <servlet-name>controlador</servlet-name>
+        <servlet-class>Controlador.controlador</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>validar</servlet-name>
+        <servlet-class>Controlador.validar</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>validarr</servlet-name>
+        <servlet-class>Controlador.validarr</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>controlador</servlet-name>
+        <url-pattern>/controlador</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>validar</servlet-name>
+        <url-pattern>/validar</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>validarr</servlet-name>
+        <url-pattern>/validarr</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <context-param>
+        <param-name> jdbcURL</param-name>
+        <param-value>jdbc:mysql://localhost:3306/clinica4</param-value>
+    </context-param>
+    <context-param>
+        <param-name> jdbcUSERName</param-name>
+        <param-value>root</param-value>
+    </context-param>
+    <context-param>
+        <param-name> jdbcPassword</param-name>
+        <param-value>andy12345</param-value>
+    </context-param>
+</web-app>

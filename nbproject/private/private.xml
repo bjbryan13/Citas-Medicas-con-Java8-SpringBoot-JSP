@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/web/reportes.jsp</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/Servicio.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/web/Principal.jsp</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/Medico.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/web/css/principal.css</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/Conexion.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/web/css/estilos.css</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/PersonaDAO.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/web/servicio.jsp</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/web/registrar.jsp</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/Dia.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/Horario.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/web/cita.jsp</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/MedicoDAO.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/web/medico.jsp</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/HorarioDAO.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/Paciente.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/PacienteDAO.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/Registrar.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/web/index.jsp</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/ServicioDAO.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/DiaDAO.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/src/java/Modelo/Persona.java</file>
+            <file>file:/C:/Users/Anderson/Documents/NetBeansProjects/Citas/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
